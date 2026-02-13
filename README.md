@@ -20,6 +20,7 @@ It simulates a real-world election environment using role-based access (Admin an
 - Vote using unique CNIC/ID
 - One-person-one-vote enforcement
 - View election results
+---
 
 ## Core Features
 - Role-based system (Admin / Voter)
@@ -31,6 +32,7 @@ It simulates a real-world election environment using role-based access (Admin an
 - Modular system design
 - Clean architecture
 - Data validation
+---
 
 ## Technical Implementation
 - Object-Oriented Programming (OOP)
@@ -39,15 +41,19 @@ It simulates a real-world election environment using role-based access (Admin an
 - Menu-driven architecture
 - System logging
 - Persistent storage system
+---
 
 ## File Structure
 - `candidates.txt` → candidate records  
 - `voters.txt` → voter records  
 - `votes.txt` → vote data  
 - `logs.txt` → system logs  
+---
 
 ## Purpose
 This project demonstrates real-world system simulation, structured software design, and backend logic implementation in C++ without external databases or authentication systems.
+
+---
 
 ## Use Cases
 - Academic projects  
