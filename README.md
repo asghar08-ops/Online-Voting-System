@@ -55,6 +55,8 @@ It simulates a real-world election environment using role-based access (Admin an
 This project demonstrates real-world system simulation, structured software design, and backend logic implementation in C++ without external databases or authentication systems.
 ---
 
+---
+
 ## Use Cases
 - Academic projects  
 - Programming portfolios  
